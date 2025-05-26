@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Practice Test Simulator",
+  "description": "An interactive web application to practice Reading, Writing, Listening, and Speaking sections of the IELTS test, powered by Gemini API for dynamic content generation.",
+  "requestFramePermissions": []
+}
